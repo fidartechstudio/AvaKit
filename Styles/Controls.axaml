@@ -1,0 +1,22 @@
+<Styles xmlns="https://github.com/avaloniaui">
+
+    <!-- =========================
+         GLOBAL TYPOGRAPHY ONLY
+    ========================== -->
+
+    <!-- Default text -->
+    <Style Selector="TextBlock">
+        <Setter Property="FontFamily" Value="Segoe UI"/>
+    </Style>
+
+    <!-- Input text -->
+    <Style Selector="TextBox">
+        <Setter Property="FontFamily" Value="Segoe UI"/>
+    </Style>
+
+    <!-- Button text -->
+    <Style Selector="Button">
+        <Setter Property="FontFamily" Value="Segoe UI"/>
+    </Style>
+
+</Styles>
